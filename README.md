@@ -2,3 +2,5 @@
 A basic stock trading web application built using Flask.
 
 Problem set 9 of Harvard's CS50x Introduction to Computer Science online course.
+
+Deployed to Heroku here: https://syed-cs50-finance.herokuapp.com/
