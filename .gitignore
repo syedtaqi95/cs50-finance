@@ -1,5 +1,4 @@
 api_key.txt
 flask_env
-finance/Procfile
-__pycache__/
+finance/__pycache__
 .vscode
