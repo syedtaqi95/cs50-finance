@@ -1,1 +1,1 @@
-web: gunicorn app:syed-cs50-finance
+web: gunicorn application:app
