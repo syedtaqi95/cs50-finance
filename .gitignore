@@ -2,3 +2,4 @@ api_key.txt
 flask_env
 finance/Procfile
 __pycache__/
+.vscode
