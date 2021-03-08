@@ -1,5 +1,6 @@
 api_key.txt
 flask_env
+win-flask-env
 finance/__pycache__
 __pycache__
 .vscode
